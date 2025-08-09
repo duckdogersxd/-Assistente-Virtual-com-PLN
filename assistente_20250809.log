@@ -1,0 +1,113 @@
+2025-08-09 17:47:51,902 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2025-08-09 17:47:51,902 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen'
+2025-08-09 17:47:51,902 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen\__init__.py'
+2025-08-09 17:47:51,919 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen'
+2025-08-09 17:47:51,949 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-08-09 17:47:51,954 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-08-09 17:47:52,073 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2025-08-09 17:47:52,078 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-08-09 17:47:52,078 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-08-09 17:47:52,093 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2025-08-09 17:49:40,664 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hyggo\\Documents\\estudo\\Dio\\Data Science\\Projeto Assistente Virtual com PLN\\venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-09 17:49:40,664 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen'
+2025-08-09 17:49:40,782 - utils.logger - INFO - TTS inicializado com sucesso
+2025-08-09 17:49:40,782 - utils.logger - ERROR - Erro ao inicializar STT: Could not find PyAudio; check installation
+2025-08-09 17:49:40,782 - utils.logger - ERROR - Erro ao inicializar módulo de voz: Could not find PyAudio; check installation
+2025-08-09 17:49:40,782 - utils.logger - ERROR - Falha ao inicializar assistente: Could not find PyAudio; check installation
+2025-08-09 17:49:59,796 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hyggo\\Documents\\estudo\\Dio\\Data Science\\Projeto Assistente Virtual com PLN\\venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-09 17:49:59,796 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen'
+2025-08-09 17:49:59,922 - utils.logger - INFO - TTS inicializado com sucesso
+2025-08-09 17:50:00,089 - utils.logger - INFO - STT inicializado com sucesso
+2025-08-09 17:50:00,089 - utils.logger - INFO - Assistente inicializado com sucesso
+2025-08-09 17:50:00,089 - utils.logger - INFO - Falando: Olá! Sou seu assistente virtual. Como posso ajudar?
+2025-08-09 17:50:06,819 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:13,384 - utils.logger - INFO - Reconhecido: Olá gostaria de ver um filme
+2025-08-09 17:50:13,384 - utils.logger - INFO - Processando comando: olá gostaria de ver um filme
+2025-08-09 17:50:13,384 - utils.logger - WARNING - Comando não reconhecido: olá gostaria de ver um filme
+2025-08-09 17:50:13,519 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:16,952 - utils.logger - WARNING - Não foi possível entender o áudio
+2025-08-09 17:50:17,071 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:20,594 - utils.logger - WARNING - Não foi possível entender o áudio
+2025-08-09 17:50:20,713 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:25,781 - utils.logger - INFO - Reconhecido: poderia tocar uma música
+2025-08-09 17:50:25,781 - utils.logger - INFO - Processando comando: poderia tocar uma música
+2025-08-09 17:50:25,782 - utils.logger - WARNING - Comando não reconhecido: poderia tocar uma música
+2025-08-09 17:50:25,903 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:30,054 - utils.logger - WARNING - Não foi possível entender o áudio
+2025-08-09 17:50:30,180 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:39,710 - utils.logger - INFO - Reconhecido: Abrir YouTube
+2025-08-09 17:50:39,710 - utils.logger - INFO - Processando comando: abrir youtube
+2025-08-09 17:50:40,041 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:50:53,371 - utils.logger - INFO - Reconhecido: Abrir Wikipédia
+2025-08-09 17:50:53,371 - utils.logger - INFO - Processando comando: abrir wikipédia
+2025-08-09 17:50:53,372 - utils.logger - WARNING - Comando não reconhecido: abrir wikipédia
+2025-08-09 17:50:53,490 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:51:02,897 - utils.logger - WARNING - Não foi possível entender o áudio
+2025-08-09 17:51:03,017 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:51:08,561 - utils.logger - INFO - Reconhecido: filme As Aventuras de
+2025-08-09 17:51:08,561 - utils.logger - INFO - Processando comando: filme as aventuras de
+2025-08-09 17:51:08,562 - utils.logger - WARNING - Comando não reconhecido: filme as aventuras de
+2025-08-09 17:51:08,690 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:51:17,329 - utils.logger - INFO - Reconhecido: Pesquisar filme As Aventuras de Pi
+2025-08-09 17:51:17,329 - utils.logger - INFO - Processando comando: pesquisar filme as aventuras de pi
+2025-08-09 17:51:17,329 - utils.logger - WARNING - Comando não reconhecido: pesquisar filme as aventuras de pi
+2025-08-09 17:51:17,460 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:51:33,751 - utils.logger - INFO - Reconhecido: finalizar
+2025-08-09 17:51:33,751 - utils.logger - INFO - Processando comando: finalizar
+2025-08-09 17:51:33,751 - utils.logger - WARNING - Comando não reconhecido: finalizar
+2025-08-09 17:51:33,874 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:51:39,530 - utils.logger - INFO - Falando: Encerrando o assistente
+2025-08-09 17:58:20,486 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hyggo\\Documents\\estudo\\Dio\\Data Science\\Projeto Assistente Virtual com PLN\\venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-09 17:58:20,486 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\hyggo\Documents\estudo\Dio\Data Science\Projeto Assistente Virtual com PLN\venv\lib\site-packages\comtypes\gen'
+2025-08-09 17:58:20,627 - utils.logger - INFO - TTS inicializado com sucesso
+2025-08-09 17:58:20,692 - utils.logger - INFO - STT inicializado com sucesso
+2025-08-09 17:58:20,692 - utils.logger - INFO - Assistente pronto para uso
+2025-08-09 17:58:20,692 - utils.logger - INFO - Falando: Olá! Sou seu assistente. Diga 'ajuda' para ver opções.
+2025-08-09 17:58:27,568 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:58:33,224 - utils.logger - INFO - Reconhecido: Abrir YouTube
+2025-08-09 17:58:33,224 - utils.logger - INFO - Processando: abrir youtube
+2025-08-09 17:58:33,336 - utils.logger - INFO - Falando: Abrindo o YouTube
+2025-08-09 17:58:35,853 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:58:42,603 - utils.logger - INFO - Reconhecido: Abrir Wikipédia
+2025-08-09 17:58:42,604 - utils.logger - INFO - Processando: abrir wikipédia
+2025-08-09 17:58:42,616 - utils.logger - INFO - Falando: Abrindo a Wikipédia
+2025-08-09 17:58:45,180 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:58:50,548 - utils.logger - INFO - Reconhecido: pesquisar na Wikipédia Leonardo da Vinci
+2025-08-09 17:58:50,548 - utils.logger - INFO - Processando: pesquisar na wikipédia leonardo da vinci
+2025-08-09 17:58:53,455 - utils.logger - INFO - Falando: Encontrei isto sobre leonardo da vinci: Leonardo di Ser Piero da Vinci (), ou simplesmente Leonardo da Vinci (Anchiano, 15 de abril de 1452 — Amboise, 2 de maio de 1519), foi um polímata nascido na atual Itália, uma das figuras mais importantes do Alto Renascimento, que se destacou como cientista, matemático, engenheiro, inventor, anatomista, pintor, escultor, arquiteto, botânico, poeta e músico. É ainda conhecido como o precursor da aviação e da balística.
+2025-08-09 17:59:33,655 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:59:41,525 - utils.logger - INFO - Reconhecido: Pesquisar filme interestelar
+2025-08-09 17:59:41,525 - utils.logger - INFO - Processando: pesquisar filme interestelar
+2025-08-09 17:59:41,553 - utils.logger - INFO - Falando: Procurando sobre o filme interestelar
+2025-08-09 17:59:45,457 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:59:49,356 - utils.logger - INFO - Reconhecido: tocar uma música
+2025-08-09 17:59:49,357 - utils.logger - INFO - Processando: tocar uma música
+2025-08-09 17:59:49,370 - utils.logger - INFO - Falando: Reproduzindo músicas no YouTube
+2025-08-09 17:59:52,790 - utils.logger - INFO - Ouvindo...
+2025-08-09 17:59:57,670 - utils.logger - WARNING - Não foi possível entender o áudio
+2025-08-09 17:59:57,670 - utils.logger - INFO - Falando: Não entendi. Poderia repetir?
+2025-08-09 18:00:01,844 - utils.logger - INFO - Ouvindo...
+2025-08-09 18:00:18,568 - utils.logger - INFO - Reconhecido: Quero ver um filme quero ver um filme
+2025-08-09 18:00:18,568 - utils.logger - INFO - Processando: quero ver um filme quero ver um filme
+2025-08-09 18:00:18,568 - utils.logger - INFO - Falando: Recomendo: O Poderoso Chefão, Interestelar ou Parasita
+2025-08-09 18:00:24,142 - utils.logger - INFO - Ouvindo...
+2025-08-09 18:00:31,446 - utils.logger - INFO - Reconhecido: Que horas são
+2025-08-09 18:00:31,446 - utils.logger - INFO - Processando: que horas são
+2025-08-09 18:00:31,447 - utils.logger - INFO - Falando: Agora são 18:00
+2025-08-09 18:00:34,531 - utils.logger - INFO - Ouvindo...
+2025-08-09 18:00:48,100 - utils.logger - INFO - Reconhecido: ajuda
+2025-08-09 18:00:48,100 - utils.logger - INFO - Processando: ajuda
+2025-08-09 18:00:48,100 - utils.logger - INFO - Falando: 
+        Posso ajudar com:
+        - Abrir YouTube ou Wikipédia
+        - Pesquisar na Wikipédia
+        - Procurar filmes
+        - Tocar música
+        - Sugerir filmes
+        - Dizer as horas
+        Diga 'parar' para encerrar
+        
+2025-08-09 18:01:06,777 - utils.logger - INFO - Ouvindo...
+2025-08-09 18:01:13,660 - utils.logger - INFO - Reconhecido: parar
+2025-08-09 18:01:13,662 - utils.logger - INFO - Processando: parar
+2025-08-09 18:01:13,662 - utils.logger - INFO - Falando: Até logo! Encerrando o assistente.
